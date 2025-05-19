@@ -1,2 +1,3 @@
 requests
-android
+flask
+fake_useragent
